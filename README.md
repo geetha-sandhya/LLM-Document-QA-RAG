@@ -3,6 +3,9 @@
 An AI-powered application that allows users to upload PDF documents and ask questions based on their content using Retrieval-Augmented Generation (RAG).
 
 ---
+## Live Demo
+
+https://llm-document-app-rag-2ovemi9zpywdenhfhcdwxq.streamlit.app/
 
 ## 📌 Project Overview
 
